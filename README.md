@@ -11,11 +11,11 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## Link to the application
 
-Check out the live demo: https://the-movie-cinema.herokuapp.com/
+Check out the live demo: https://still-coast-69612.herokuapp.com/
 
 # Note
 
-> #### Use this URL - https://the-movie-buff.herokuapp.com/ - in case if you see application error in the above mentioned URL
+> #### Use this URL - https://still-coast-69612.herokuapp.com - in case if you see application error in the above mentioned URL
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go even though if you made some typo errors.
 
