@@ -1,2 +1,0 @@
-# Predictor
-Movie Recommendation App
