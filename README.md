@@ -41,7 +41,7 @@ In this file we import movie data from (movie_metadata.csv(This file contains th
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(245).png" align="centre">
 and stores all this to data named named variable and also repalced the the null names of actors and directors to unknown and convets data to csv file.
 
-## 2. Preprocessing 2.ipynb :- 
+### 2. Preprocessing 2.ipynb :- 
 In this file we import two csv files (credits.csv and movies_metadata.csv) and the data of these files in two diffrent variables and takinfg the value of year from the movies_metadata.csv and storing the year in list form after that we taking the ('genres','id','title','year') from the movies_metadata.csv and storing these values in the variable having year <=2017 after which we merge the data of variables containes the credit and movies_metadata csv file on another variable(named data) with refrence of id.
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(259).png" align="centre">
 After which we listing the genres values with refrence of name and also collecting actor_1,actor_2 and actor_3 name from cast and director_name from crew in data 
@@ -52,7 +52,7 @@ and in combining all these values to make a single column and appending this clo
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(261).png" align="centre">
 and after this we drop all duplicates from movie_title(which renamed from title column) and convert this to movie.csv.
 
-## 3. Preprocessing 3.ipynb :- 
+### 3. Preprocessing 3.ipynb :- 
 In this file we are collectiong the values of movie nme of year 2018 and 2019 seperately from wikipedia 
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(263).png" align="centre">
 and the genres through API 
@@ -63,14 +63,14 @@ and mering 2018 and movie.csv file in 2019 year movies
 and drop the null values then makes final_data.
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(267).png" align="centre">
 
-## 4. Preprocessing 4.ipynb :- 
+### 4. Preprocessing 4.ipynb :- 
 In this file we are doning the same thing for collection 2020 movies and appending all previous movies upto 2019
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(268).png" align="centre">
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(269).png" align="centre">
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(270).png" align="centre">
 in this file and makes main_data.csv
 
-## 5. Sentiment.ipynb :- 
+### 5. Sentiment.ipynb :- 
 this is our filnal file where we make our modal with maximum accuracy score of 
 98.77167630057804 with the help of Multinomial naive bayes and completes our modal 
 filename = 'nlp_model.pkl'.
