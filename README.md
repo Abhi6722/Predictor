@@ -88,7 +88,6 @@ filename = 'nlp_model.pkl'.
 filename = 'nlp_model.pkl'.
     
     
-    
 ## FEASIBILITY AND APPLICABILITY:
 ### 1. USABILITY:
 Search for a Movie and gain knowledge about the movie and its cast.
@@ -109,6 +108,14 @@ There are always controversies regarding the movie app but this app should not i
 ### 8. ANY IMPROVEMENT IN YOUR PROJECT YOU FORESEE TO IMPLEMENT IN FUTURE:
 We are planning to add some additional features and make it more appealing in terms of UI.
 We are planning to use dialouge flow as a chat bot which will be trained to help users. 
+
+
+## Application Screenshots
+<img src="https://github.com/Abhi6722/Predictor/blob/main/notebook%20screenshots/Application/1.png" align="centre">
+<img src="https://github.com/Abhi6722/Predictor/blob/main/notebook%20screenshots/Application/2.png" align="centre">
+<img src="https://github.com/Abhi6722/Predictor/blob/main/notebook%20screenshots/Application/3.png" align="centre">
+<img src="https://github.com/Abhi6722/Predictor/blob/main/notebook%20screenshots/Application/4.png" align="centre">
+<img src="https://github.com/Abhi6722/Predictor/blob/main/notebook%20screenshots/Application/5.png" align="centre">
 
     
 Please do ⭐ the repository, if it helped you in anyway.
