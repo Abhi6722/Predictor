@@ -13,6 +13,16 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://still-coast-69612.herokuapp.com/
 
+## PROBLEM STATEMENT / OBJECTIVE
+
+The project was made for the TECH-A-THON competition. The main objective behind creating this app was to make the life of people a little bit easier by providing an easier way to search for desired movies.
+Whenever we watch a movie and like it we always want to see more movies like it and this is the step where we face problems. So we thought to solve this problem and came up with the idea of "Predictor" app.
+
+## SOLUTION TO THE PROBLEM / OBJECTIVE STATED:
+
+With the help of machine learning and API from themoviedb.org we made our app Predictor. The main function of the app is to recommend movies based on our interest. We have made our UI very simple and user friendly so that people can get what they are looking for. After entering the name of the movie it will show all the details of the movie like its title, overview, rating, genre, cast and even user reviews along with the sentiments. And then there is the main part which is Recommended Movies. In this section list of all the recommended movies related to our given movie will show.
+
+If we don't exactly know the spelling of the movie then also it will show the movie with the help of machine learning. And as we have used the API from themoviedb.org it has tons of movies in the list.
 
 ## How to get the API key?
 
