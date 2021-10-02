@@ -77,4 +77,28 @@ filename = 'nlp_model.pkl'.
 <img src="https://github.com/nikhilGupta1209/Predictor/blob/main/notebook%20screenshots/Screenshot%20(271).png" align="centre">
 filename = 'nlp_model.pkl'.
     
+    
+    
+## FEASIBILITY AND APPLICABILITY:
+### 1. USABILITY:
+Search for a Movie and gain knowledge about the movie and its cast.
+Get recommendations for the movies.
+### 2. SPECIFY FEATURES:
+The main feature of the app is that it shows all the movie recommendations related to our input given.
+### 3. SCALABILITY:
+This project can actually be used at a product-level scale and can come in handy. We can include more filters options which can make searching more extensive.
+### 4. HOW REALISTIC TO ACHIEVE/MAKE:
+Our app is not just a theoretical idea rather it a full scale app which can be put into production stage and everyone can use it.
+### 5. ECONOMIC SUSTAINABILITY:
+We have made our app in such a way so that it could be as economical as possible.
+Till now the app is completely build without spending any money as we have used all free resources.
+### 6. ENVIRONMENT SUSTAINABILITY:
+Our project does not harm environment in any aspect and it totally user friendly as we don't take any information from our user or store their information.
+### 7. ANY THREAT/RISK/PROBLEM THAT YOU CAN FORESEE?:
+There are always controversies regarding the movie app but this app should not include any risk as we are just using information which are provided in an open to use API source. (https://www.themoviedb.org)
+### 8. ANY IMPROVEMENT IN YOUR PROJECT YOU FORESEE TO IMPLEMENT IN FUTURE:
+We are planning to add some additional features and make it more appealing in terms of UI.
+We are planning to use dialouge flow as a chat bot which will be trained to help users. 
+
+    
 Please do ⭐ the repository, if it helped you in anyway.
